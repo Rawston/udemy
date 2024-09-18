@@ -1,4 +1,6 @@
 Git e GitHub
+$ git config --global user.name "Fulano de Tal"
+$ git config --global user.email fulanodetal@exemplo.br
 git init
 git status
 git add .
